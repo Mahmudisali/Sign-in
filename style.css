@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+.hisse1 h4 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    /* identical to box height */
+    text-align: center;
+
+    color: #000000;
+}
+
+.hisse1 {
+    background: linear-gradient(180deg, #FFFFFF 6.01%, rgba(255, 112, 98, 0.91) 137.98%);
+    padding-bottom: 150px;
+    margin-left: 50px;
+    padding: 60px;
+}
+
+.hisse1 h6 {
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+
+}
+
+.form {
+    align-items: center;
+    text-align: center
+}
+
+.form p {
+
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+
+}
+
+form input {
+
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    border-color: white;
+    width: 70%;
+}
+
+form i {
+
+    top: 0;
+    left: 0%;
+}
+
+button {
+    background: rgba(244, 94, 79, 0.96);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    display: block;
+    width: 70%;
+    align-items: center;
+    text-align: center;
+    border-color: transparent;
+    margin-left: 60px;
+    margin-top: 30px;
+    height: 45px;
+
+}
+
+button p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+
+    color: #000000;
+
+}
+
+
+
+
+
+
+
+#hisse2 {
+    background-image: url(unnamed_1@2x.png);
+
+}
+
+#hisse2 h4 {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+
+    font-family: 'Inika';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 42px;
+    /* identical to box height */
+
+
+    color: #000000;
+
+}
+#hisse2 img{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
